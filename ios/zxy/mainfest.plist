@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://211.159.140.201:8888/group1/M00/00/2A/CkgAA1wZrm6ABcwKAAFemtAV1A0937.jpg</string>
+                    <string>http://211.159.140.201:8888/group1/M00/00/2A/CkgAA1wZrm-AHvZxAADWDT772jE054.jpg</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://211.159.140.201:8888/group1/M00/00/2A/CkgAA1wZrm6AHw9BAABzkw5NFyI997.jpg</string>
+                    <string>http://211.159.140.201:8888/group1/M00/00/2A/CkgAA1wZrm-AACVhAACXUN7MNsI270.jpg</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -39,9 +39,9 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>重能项目管理软件</string>
+                <string>项目管理软件</string>
                 <key>title</key>
-                <string>三一重能</string>
+                <string>筑享云</string>
             </dict>
         </dict>
     </array>
